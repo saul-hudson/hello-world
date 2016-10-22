@@ -4,6 +4,7 @@ public class Creature {
 
 	private Species species;
 	private int level;
+	
 
 	public Creature(Species species, int level) {
 		this.species = species;
